@@ -1,0 +1,48 @@
+﻿  Bank.cpp
+D:\course #11 OOP\Bank System\Bank\Bank\clsString.h(32,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../course%20#11%20OOP/Bank%20System/Bank/Bank/Bank.cpp')
+  
+D:\course #11 OOP\Bank System\Bank\Bank\clsString.h(37,28): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../course%20#11%20OOP/Bank%20System/Bank/Bank/Bank.cpp')
+  
+D:\course #11 OOP\Bank System\Bank\Bank\clsString.h(139,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../course%20#11%20OOP/Bank%20System/Bank/Bank/Bank.cpp')
+  
+D:\course #11 OOP\Bank System\Bank\Bank\clsString.h(174,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../../../../course%20#11%20OOP/Bank%20System/Bank/Bank/Bank.cpp')
+  
+D:\course #11 OOP\Bank System\Bank\Bank\clsString.h(203,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../course%20#11%20OOP/Bank%20System/Bank/Bank/Bank.cpp')
+  
+D:\course #11 OOP\Bank System\Bank\Bank\clsDate.h(398,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../course%20#11%20OOP/Bank%20System/Bank/Bank/Bank.cpp')
+  
+D:\course #11 OOP\Bank System\Bank\Bank\clsDate.h(403,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '../../../../course%20#11%20OOP/Bank%20System/Bank/Bank/Bank.cpp')
+  
+D:\course #11 OOP\Bank System\Bank\Bank\clsUser.h(197,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../../../course%20#11%20OOP/Bank%20System/Bank/Bank/Bank.cpp')
+      D:\course (179,9):
+      see declaration of 'clsUser::stLoginRegister'
+  
+D:\course #11 OOP\Bank System\Bank\Bank\clsBankClient.h(176,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '../../../../course%20#11%20OOP/Bank%20System/Bank/Bank/Bank.cpp')
+      D:\course (16,9):
+      see declaration of 'clsBankClient::stTransferLog'
+  
+D:\course #11 OOP\Bank System\Bank\Bank\clsBankClient.h(221,10): warning C4244: 'return': conversion from '__int64' to 'float', possible loss of data
+  (compiling source file '../../../../course%20#11%20OOP/Bank%20System/Bank/Bank/Bank.cpp')
+  
+D:\course #11 OOP\Bank System\Bank\Bank\clsBankClient.h(359,22): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file '../../../../course%20#11%20OOP/Bank%20System/Bank/Bank/Bank.cpp')
+  
+D:\course #11 OOP\Bank System\Bank\Bank\clsBankClient.h(369,22): warning C4244: '-=': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file '../../../../course%20#11%20OOP/Bank%20System/Bank/Bank/Bank.cpp')
+  
+D:\course #11 OOP\Bank System\Bank\Bank\clsBankClient.h(382,17): warning C4244: '+=': conversion from 'float' to '__int64', possible loss of data
+  (compiling source file '../../../../course%20#11%20OOP/Bank%20System/Bank/Bank/Bank.cpp')
+  
+D:\course #11 OOP\Bank System\Bank\Bank\clsBankClient.h(321,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\course #11 OOP\Bank System\Bank\Bank\clsUtility.h(223,1): warning C4715: 'clsUtility::numt_to_text': not all control paths return a value
+D:\course #11 OOP\Bank System\Bank\Bank\clsUser.h(357,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank.vcxproj -> D:\course #11 OOP\Bank System\Bank\x64\Debug\Bank.exe
